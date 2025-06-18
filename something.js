@@ -1,4 +1,8 @@
 // Some useless JavaScript code
-for ( let i = 0 ; i < 10 ; i ++ ) {
-console . log ( i );
+
+const min = 5;
+const max = 10;
+
+for (let index = min ; i < max ; index++) {
+console.log (index);
 }
